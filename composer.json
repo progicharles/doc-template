@@ -1,5 +1,5 @@
 {
-    "name": "uccello/document-designer-core",
+    "name": "progicharles/doc-template",
     "description": "Convert docx and xlsx files templates into PDF.",
     "type": "library",
     "license": "MIT",
@@ -11,7 +11,7 @@
     ],
     "require": {
         "php": "^7.3|^8.0",
-        "laravel/framework": "^8.0",
+        "laravel/framework": "^8.0|^9.0",
         "phpoffice/phpword": "^0.18",
         "phpoffice/phpspreadsheet": "^1.17"
     },
